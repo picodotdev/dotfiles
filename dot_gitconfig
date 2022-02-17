@@ -1,0 +1,7 @@
+[user]
+	name = pico.dev
+	email = pico.dev@gmail.com
+[core]
+	editor = vim
+[pull]
+	rebase = false
